@@ -1,6 +1,10 @@
 # Projects Portfolio
 # Table of Contents
-[will this work](#ms-access-atv-repair-shop-database)
+[AI Digit Recognizer](#ai-digit-recognizer)
+[Maproom](#maproom-campus-navigation-app)
+[ATV Repair Shop Database](#ms-access-atv-repair-shop-database)
+[Java Dodge Game](#java-dodge-game)
+[Unity AI Survival Agent](#unity-ai-survival-agent)
 ## AI Digit Recognizer
 Overview
 This project is a built from scratch Feed Forward Neural Network (FNN) the uses backpropigation to progressivly train a AI model off training data of drawn number 0 - 9. Following OOP princables this project is meant to be the highlight of years of both academic and personal projects that takes a complex and challenging concept and on goes through the software devlopment life cycle to concepturalize, create, and deliver and interactive and visually dynamic user experience.
