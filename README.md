@@ -36,15 +36,20 @@ Technologies Used
 - Visual Studio Code
 # MS Access ATV Repair Shop Database
 Overview
-This project is a highlight for the process of working closely with a client to plan, design, and create a geunially impactful relational database in MS Access. This project creates a database the allows for the client to digitally 
+This project is a highlight for the process of working closely with a client to plan, design, and create a geunially impactful database to manage record keeping for a ATV Repair shop. This relational database allows the client to log various important forms from customer information, vehicle services, Reprir costs and descriptions and many others that can be seen below. It was important that I understand what the clients needed and made sure focus was on their needs.
 
 Technologies Used
 - MS Access
 # Java Dodge Game
+overview
+This project focuses on using Java and OOP to create a fun game where the user is meant to dodge the red balls and collect the green balls. With various modes including easy, medium, hard, and insane, This challangeing game progressivly gets harder as more green balls are collected. Each mode chages how quickly new hazard red balls are created, their speed, and their size. This application keeps track of the users current score and the highest scores they've achieved on each mode.
+
 Technologies used
 - Java
 - Eclipse
 # Unity AI Survival Agent
+This project uses C# and Unity to create an AI agent that generationally improves its survivability using a basic feedforward neutral network in conjunction with a genetic algorithm. Each agent has several stats the determine variables like speed, visions range, vision cone count, and stamina that all affect the agents ability to find and compete for food in it's environment. Several agents would be pitted against each other where the agent that lived the longest would have it genetics passed on to the next with varience to futher hone a competetive agent.
+
 - C#
 - Unity
 - Visual Studio
