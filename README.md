@@ -10,17 +10,16 @@
 
 <b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio
 
-<b>Overview:</b> This project is a built from scratch Feed-Forward Neural Network (FNN) that uses backpropigation to progressivly train a neural network from training data of drawn number 0 - 9. Following Object-oriented Programming (OOP) princables this project is meant to be the highlight of years of both academic and personal projects that takes a challenging concept and on goes through the software devlopment life cycle (SDLC) to plan, design, implement, test, and deploy a complex system. This application allows the user to create custome neural networks that they can train with a adjustable variables such as learning rate and epoch count. I was focused on not just creating a neural netowrk but a application that interactive, informative, and fun to use. 
-o
+<b>Overview:</b> A passion project that is the culmination of everything I’ve learned over the years including object-oriented programming (OOP) principles, the software development life cycle (SDLC), programming standards, unit testing, and documentation. This application is able to recognize hand-drawn or loaded digits, using a from scratch feed-forward neural network that uses backpropigation for error correction to progressively train the model. Meant to recognize number from 0 – 9, this is a highly interactive application that provides dynamic visuals on the inner workings of the neural networks confidence values. Additionally this application is interactive in not only drawing your own digits but creating a customizable neural network with adjustable training parameters such as learning rate and epoch count (iteration through training data) along with the ability to load and save existing models. This project stands a testament to how I’ve grow as a developer and my willingness to take on complex problem solving challenges.
 
 <b>Features</b>
-- Interactive digit recognition where the user can draw digits and see the AI's confidence values in real-time.
-- Customizable neural network with the ability to create custom neural networks by defining hidden layer sizes and node counts.
-- Control over training parameters such as ajusting learning rates and epoch counts to influence training route.
-- User-friendly interface that includes dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
-- Ability to save and load models as well as change training data
+- Interactive confidence values where the user can draw or load digits to see the models confidence in real-time.
+- Customizable neural networks with the ability for the user to define their own hidden layer size and node count for those layers.
+- Control over training parameters such as adjusting learning rates and epoch counts to influence training progression.
+- User-friendly interface that includes dynamic visuals, progress bars, accuracy tracking, and confidence value displays, and the ability to stop training at any time.
+- Functionality to save and load models as well as change training data
 
-<b>Introduction to Me and Proejct</b>
+<b>Introduction to Me and the Proejct</b>
 
 https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/df073c76-e715-49eb-9d00-9c8d300d937c
 
@@ -29,18 +28,10 @@ https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/df073c76-e715-4
 https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-480d-b767-73c9e4ce858b
 
 <b>Challenges Overcome</b>
-- <b>Comprehensive Design and Development:</b> Tackled the complexities of designing and implementing a neural network in C# with a strong emphasis on OOP.
-- <b>Testing and Reliability:</b> Focused on unit testing to ensure reliability in complex processes, learning valuable lessons in bug detection and system robustness.
-- <b>Documentation and Learning:</b> The project was not just a technical challenge but also an opportunity to refine my skills in creating comprehensive documentation and understanding the intricacies of neural network behaviors.
-
-<b>A Little More In-Depth</b>
-Due to the complex nature of neural networks, planning out the structure of the network itself as well as how the rest to the system would interact with it prooved more difficult than any other project I've made. It was imparative that I created a robust foundation to reduce bugs and improve testability for each section to check for excepted behavior. This process included implementing single responsability principles and dependency injection to allow for Unit testing expected funtionality. 
-
-<b>Reflection</b>
-This project was important for applying my knowledge to a difficult task and learning where I can improve, nothing is learned by taking it easy. I learned a lot about what makes code robustness, testability, and maintainability.
-
-
-This is one of my most complex but satisfying projects into terms of both size and complexity. I found it very difficult to properly determine what strucutre I would need since i've never made a neural network this complex. Since i've never made a neural network this compelex I found myself a little unsure how excatly I should strucutre some the internal architecture of the network. Unlike most projects i've made before, nature of how many stages must be compeleted before any tangiable results from the network can be seen gave my many unique challenges from finding bugs and determineing the structure . The journey from data from a text file to the output and training of the neural network is a long and complex journey with a million things to go wrong it goes from (Data in Text file) > (coverted into proper format for neural netowork) > (netowrk weights and baised initalized) > (data normalized using sigmoid) > (Forward pass through network) > (output of the network) > (proccessing through backpropigation) > (finally outputed to the UI). Within this whole process a million things can go wrong from the text file being read wrong to very subtle bugs the mess with the training of the AI.
+- <b>Comprehensive Design and Development:</b> Tackled difficulties that the complexity of a neural network has for the SDLC. This project was difficult in particular planning out the design of the neural network and testing the system for a process that has so many different components for data process through.
+- <b>Testing and Reliability:</b> Focused on unit testing to ensure reliability in complex processes, learning valuable lessons in bug detection and system robustness. I learned not only how to avoid certain design pitfalls in testable but how valuable unit testing can be for detecting hard to find bugs in complex system.
+- <b>Documentation and Learning:</b> Applied my documentation skills to a larger project and the importance of useful comments in understanding complex operations.
+- <b>Efficiency in async and parallel tasks</b> Neural networks are an incredibly computationally heavy task, I learned to utilize async processing for continuously interactive UI but also to parallel certain task for efficient training of the neural network.
   
 # Maproom Campus Navigation App
 ![Maproom Overview (1)](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/b9516baa-0021-46bd-9d64-8f4a8ffba4a7)
