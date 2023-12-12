@@ -1,11 +1,11 @@
 # Projects Portfolio
-# Table of Contents
+## Table of Contents
 - [AI Digit Recognizer](#ai-digit-recognizer)
 - [Maproom](#maproom-campus-navigation-app)
 - [ATV Repair Shop Database](#ms-access-atv-repair-shop-database)
 - [Java Dodge Game](#java-dodge-game)
 - [Unity AI Survival Agent](#unity-ai-survival-agent)
-# AI Digit Recognizer
+## AI Digit Recognizer (For Full Documenation Click [Here](https://github.com/MyutVoilim/AI-Digit-Recognition.git)) 🔢
 ![Digit Recognizer 2](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/b6f11075-d122-4dbc-96d6-03a7fa03f8d2)
 
 <b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio
@@ -31,20 +31,19 @@ https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-4
 - <b>Comprehensive Design and Development:</b> Tackled difficulties that the complexity of a neural network has for the SDLC. This project was difficult in particular planning out the design of the neural network and testing the system for a process that has so many different components for data process through.
 - <b>Testing and Reliability:</b> Focused on unit testing to ensure reliability in complex processes, learning valuable lessons in bug detection and system robustness. I learned not only how to avoid certain design pitfalls in testable but how valuable unit testing can be for detecting hard to find bugs in complex system.
 - <b>Documentation and Learning:</b> Applied my documentation skills to a larger project and the importance of useful comments in understanding complex operations.
-- <b>Efficiency in async and parallel tasks</b> Neural networks are an incredibly computationally heavy task, I learned to utilize async processing for continuously interactive UI but also to parallel certain task for efficient training of the neural network.
+- <b>Efficiency in async and parallel processing</b> Neural networks are an incredibly computationally heavy task, I learned to utilize async processing for continuously interactive UI but also to parallel certain task for efficient training of the neural network.
   
-# Maproom Campus Navigation App
+## Maproom Campus Navigation App
 ![Maproom Overview (1)](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/b9516baa-0021-46bd-9d64-8f4a8ffba4a7)
 
 <b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB | Visual Studio Code
 
 <b>Overview</b>
-This project named Maproom is a collaboration between myself and two other students to create a Campus navigation app for our CS capstone project. The main focus was to create an app that would allow for mainly Freshman students comming into campus to more easily and less nervreckingly find their classes in time in unframiliar surrounding. The app shows various important building on the campus location alond with the ability for the user to searach for the class code such as CYBR 233, and find the building it is in and highlight the room location. Their was heavy important in the SDLC in all phases from planning out our requirments from what skills we had to surveys asked of new studnets to find what was most important to them in fidning their classes. Using technologies such as Github, Discord, and tools to create Gnatt charts were all used to collbtrativly to create this project.
-Technologies Used
+Maproom is a collaboration between myself and two other students to create a campus navigation app for our CS capstone project that utilizes each of our talents to coordinate are efforts towards a common goal. The main focus was to create an app that would allow for mainly Freshman students entering campus for the first time to easily navigate to their classes on time reducing the nerves of unfamiliar surroundings. We felt that his app held an important place for our campus since the existing maps for students were over simplified and barely useful for even finding the correct building. To make it as easy to navigate an overview map of the campus with the highlighted building was provided along with a local map for the specific building, floor, and highlighted room. Through surveys during the planning phase, we found that students wanted the simplest way to enter what class they needed without needing to know what building the class in so we made an auto-complete search engine that would only require the classroom code such as CYBR 233. 
 
 
 <b>Features</b>
-- Provides user with the building and floor along with a highlight for the exact room they are look for.
+- Provides user with the building and floor along with a highlight for the exact room they are looking for.
 - A campus view and local view for building and room locations
 - Initiative search functionality that simplifies finding classroom without needing to know the exact building it is in
 
@@ -53,19 +52,13 @@ Technologies Used
 
 
 <b>Challenges Overcome</b>
-- <b>Collaboration Across Disciplines:</b>  Our team had diverse backgrounds ranging from Business to Computer Science lending each with difference experiences that could be utilized with responsibilities divided based on our areas of expertise. I focused on database management, JavaScript logic for mapping, and developing the search engine.
 - <b>Collaboration Across Disciplines:</b> Our team had diverse backgrounds ranging from Business to Computer Science lending each with difference experiences that could be utilized with responsibilities divided based on our areas of expertise. I focused on database management, JavaScript logic for mapping, and developing the search engine.
-- <b>Time Management:</b> Balancing development with academic and work commitments. We utilized Gantt charts and meetings to hit weekly targets and had task prioritization.
 - <b>Remote Coordination:</b> Leveraged tools like Discord, email, and GitHub for communication and version control, overcoming the challenge of coordinating work across different schedules.
-- 
-  <b>A Little More In-Depth</b>
-
-  <b>Reflection</b>
-  
-  Because this project is a collaberation between three people it was important that we as a group determine what we wanted to create and the process we would use to achieve that. It was also important that we had a tangiable timeline the we ahchieved with a gnatt chart to assign tasks and keep us in line with are targets. using technolgoies like github to centralize and upload progress, Discord for communication when we couldn't not get together, and close collabration that utalized each of are backgrounds from busienss to computer science. Their were times when we could not get together because of scheduels but assigning ahead of time what each needed to to along with updates on where we were at allowed us to iterativly improve or application until the eventual creation.
+- <b>User Feedback:</b> It was important the we treat Freshman students like a client and involve them in the SDLC to find our business requirements and properly plan out necessary functionality.
+- <b>Time Management:</b> Balancing development with academic and work commitments. We utilized Gantt charts and meetings to hit weekly targets and had task prioritization.
 
   
-# MS Access ATV Repair Shop Database
+## MS Access ATV Repair Shop Database
 ![3K Hub](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/cf74f033-e55f-46e7-a208-ee95f5c04e78)
 ![3K Full Service View](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/fe160030-9372-49b9-932e-d7480bb8c224)
 
@@ -98,7 +91,7 @@ A relational database crafted to streamline operations for an ATV repair shop. M
 Challenges
 Unlike most projects i've made, this one had real impact on someones life and how they operated their business. Their is something speicial about working with real issues and devloping software to make peoples lives easier. It was paramount that focused on the clients needs rather than to just create something I thought they wanted. I needed to make sure that I properly planned for what the client needed and continuously update them and adjust as needed based on those needs. Working for the client brings special challenges but is it one of the most rewards aspects about software devlopment
 
-# Java Dodge Game
+## Java Dodge Game
 ![Dodge Playing](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/46014cea-276f-4c9a-a455-9cb8789e29d7)
 
 <b>Technologies:</b> Java | Eclipse
@@ -118,7 +111,7 @@ Using Java and OOP to create a fun game where the user is meant to dodge red haz
 - <b>Smooth and Intuative Gameplay:</b> Ensuring the game runs smoothly without lag for quick reflex reaction and creating intuative self-explanitory design.
 - <b>Effective Use of OOP:</b> Maintaining a clean, modular codebase using OOP principles such as encapsulation, inheritance, and polymorphism.
 
-# Unity AI Survival Agent
+## Unity AI Survival Agent
 ![together](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/00130ce1-471b-4a97-af2f-f037719e5e79)
 
 <b>Technologies</b> C# | Unity | Visual Studio
