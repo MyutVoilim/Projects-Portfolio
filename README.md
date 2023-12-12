@@ -12,16 +12,6 @@
 
 This project is a built from scratch Feed-Forward Neural Network (FNN) that uses backpropigation to progressivly train a neural network from training data of drawn number 0 - 9. Following Object-oriented Programming (OOP) princables this project is meant to be the highlight of years of both academic and personal projects that takes a challenging concept and on goes through the software devlopment life cycle (SDLC) to plan, design, implement, test, and deploy a complex system. This application allows the user to create custome neural networks that they can train with a adjustable variables such as learning rate and epoch count. I was focused on not just creating a neural netowrk but a application that interactive, informative, and fun to use. 
 
-<b>Introduction to Me and Proejct</b>
-
-https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/df073c76-e715-49eb-9d00-9c8d300d937c
-
-<b>Project Demo</b>
-
-https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-480d-b767-73c9e4ce858b
-
-
-
 <b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio
 
 <b>Features</b>
@@ -30,6 +20,14 @@ https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-4
 - Control over training parameters such as ajusting learning rates and epoch counts to influence training route.
 - User-friendly interface that includes dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
 - Ability to save and load models as well as change training data
+
+<b>Introduction to Me and Proejct</b>
+
+https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/df073c76-e715-49eb-9d00-9c8d300d937c
+
+<b>Project Demo</b>
+
+https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-480d-b767-73c9e4ce858b
 
 <b>Challenges Overcome</b>
 - <b>Comprehensive Design and Development:</b> Tackled the complexities of designing and implementing a neural network in C# with a strong emphasis on OOP.
@@ -53,15 +51,15 @@ This is one of my most complex but satisfying projects into terms of both size a
 This project named Maproom is a collaboration between myself and two other students to create a Campus navigation app for our CS capstone project. The main focus was to create an app that would allow for mainly Freshman students comming into campus to more easily and less nervreckingly find their classes in time in unframiliar surrounding. The app shows various important building on the campus location alond with the ability for the user to searach for the class code such as CYBR 233, and find the building it is in and highlight the room location. Their was heavy important in the SDLC in all phases from planning out our requirments from what skills we had to surveys asked of new studnets to find what was most important to them in fidning their classes. Using technologies such as Github, Discord, and tools to create Gnatt charts were all used to collbtrativly to create this project.
 Technologies Used
 
-![Maproom Satellite View](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/dfa1152e-a85c-42c2-9034-fa91ede7c13b)
-![Maproom Searching room](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/c78167d9-2236-491c-bdec-bcb538b7c4eb)
-
 <b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB | Visual Studio Code
 
 <b>Features</b>
 - Provides user with the building and floor along with a highlight for the exact room they are look for.
 - A campus view and local view for building and room locations
 - Initiative search functionality that simplifies finding classroom without needing to know the exact building it is in
+
+![Maproom Satellite View](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/dfa1152e-a85c-42c2-9034-fa91ede7c13b)
+![Maproom Searching room](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/c78167d9-2236-491c-bdec-bcb538b7c4eb)
 
 <b>Challenges Overcome</b>
 - <b>Collaboration Across Disciplines:</b>  Our team had diverse backgrounds ranging from Business to Computer Science lending each with difference experiences that could be utilized with responsibilities divided based on our areas of expertise. I focused on database management, JavaScript logic for mapping, and developing the search engine.
@@ -129,12 +127,25 @@ Using Java and OOP to create a fun game where the user is meant to dodge red haz
 - <b>Effective Use of OOP:</b> Maintaining a clean, modular codebase using OOP principles such as encapsulation, inheritance, and polymorphism.
 
 # Unity AI Survival Agent
-This project uses C# and Unity to create an AI agent that generationally improves its survivability using a basic feedforward neutral network in conjunction with a genetic algorithm. Each agent has several stats the determine variables like speed, visions range, vision cone count, and stamina that all affect the agents ability to find and compete for food in it's environment. Several agents would be pitted against each other where the agent that lived the longest would have it genetics passed on to the next with varience to futher hone a competetive agent.
+![together](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/00130ce1-471b-4a97-af2f-f037719e5e79)
 
-- C#
-- Unity
-- Visual Studio
+<b>Overview</b>
+This project uses C# and Unity to create an AI agent that generationally improves its survivability using a basic feed-forward neutral network in conjunction with a genetic algorithm. Each agent has several stats the determine variables like speed, visions range, vision cone count, and stamina that all affect the agents ability to find and compete for food in it's environment. Several agents are be pitted against each other with the agent that lived the longest having its genetics passed on to the next with slight mutations to futher hone a progressivly competetive agent.
 
-Challenges
-Like anything related to AI it was difficult finding how I should strucutre the AI between was elements should be relavent such as speed or vision to what rewards I should use to determine the success of a agents generation. This was also the first time I ever used Unity so their were challenges in learning the platform in order to achieve what I sought to do.
+<b>Technologies</b> C# | Unity | Visual Studio
+
+<b>Features</b>
+- Control over agent stats and environment such as how quickly stamina drains, food availability, and agent spawn count to increase or decrease competition
+- Adjustable mutation rate to control how drastically children of the orginal agent will diverge
+- Toggleability of certain agent features such a whether increase vision or movement speed drain stamina faster
+- Ability to save/load AI models
+
+  ![bigger](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/077317d9-8d95-4599-b483-f621157f8b20)
+
+
+<b>Challenges</b>
+- <b>Learning a new platform:</b>This is the first project were I used Unity which intnially slowed down devlopment, but through documentation adn demoing functinality I was able to learn and Utalize Unity's framework.
+- <b>Determining a proper reward system</b>Since this was a neural network it was neccessary to determine effective metrics for what would be concidred a successful agent, in my case I used time instead of amout of food captured since an agent may eat a lot of food but burn through stamina quickly compared to a slower more effecient agent.
+- <b>Balancing agent abilities</b> Find tuning how much having large vision cone or speed should effect the agents stamina to create a copmetitive environment that allowed for multiple unique routes instead of just get fast and see farther.
+
 
