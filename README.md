@@ -12,12 +12,13 @@
 
 <b>Overview:</b> A passion project that is the culmination of everything I’ve learned over the years including object-oriented programming (OOP) principles, the software development life cycle (SDLC), programming standards, unit testing, and documentation. This application is able to recognize hand-drawn or loaded digits, using a from scratch feed-forward neural network that uses backpropigation for error correction to progressively train the model. Meant to recognize number from 0 – 9, this is a highly interactive application that provides dynamic visuals on the inner workings of the neural networks confidence values. Additionally this application is interactive in not only drawing your own digits but creating a customizable neural network with adjustable training parameters such as learning rate and epoch count (iteration through training data) along with the ability to load and save existing models. This project stands a testament to how I’ve grow as a developer and my willingness to take on complex problem solving challenges.
 
-<b>Features</b>
-- Interactive confidence values where the user can draw or load digits to see the models confidence in real-time.
-- Customizable neural networks with the ability for the user to define their own hidden layer size and node count for those layers.
-- Control over training parameters such as adjusting learning rates and epoch counts to influence training progression.
-- User-friendly interface that includes dynamic visuals, progress bars, accuracy tracking, and confidence value displays, and the ability to stop training at any time.
-- Functionality to save and load models as well as change training data
+<b>Features:</b>
+- <b>Interactive Design:</b> allowing the user to draw or load digits with real-time confidence value feedback.
+- <b>Customizable Neural Networks:</b> featuring the ability to create custom neural networks by defining hidden layer sizes and node counts.
+- <b>Adjustable Training Parameters:</b> Control over training parameters such as learning rates and epoch counts to influence training route.
+- <b>User-Friendly Interface:</b> Including dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
+- <b>Model Management:</b> Save, load, and swap out training data for greater flexibility and experimentation.
+
 
 <b>Introduction to Me and the Proejct</b>
 
@@ -42,10 +43,10 @@ https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-4
 Maproom is a collaboration between myself and two other students to create a campus navigation app for our CS capstone project that utilizes each of our talents to coordinate are efforts towards a common goal. The main focus was to create an app that would allow for mainly Freshman students entering campus for the first time to easily navigate to their classes on time reducing the nerves of unfamiliar surroundings. We felt that his app held an important place for our campus since the existing maps for students were over simplified and barely useful for even finding the correct building. To make it as easy to navigate an overview map of the campus with the highlighted building was provided along with a local map for the specific building, floor, and highlighted room. Through surveys during the planning phase, we found that students wanted the simplest way to enter what class they needed without needing to know what building the class in so we made an auto-complete search engine that would only require the classroom code such as CYBR 233. 
 
 
-<b>Features</b>
-- Provides user with the building and floor along with a highlight for the exact room they are looking for.
-- A campus view and local view for building and room locations
-- Initiative search functionality that simplifies finding classroom without needing to know the exact building it is in
+<b>Features:</b>
+- <b>Dual Navigation Views:</b> Maproom offers a campus-wide view for general orientation and a detailed local view pinpointing the exact room within a building.
+- <b>Intuitive Search Functionality:</b> The app enables students to locate classrooms easily without needing prior knowledge of the building location, enhancing user convenience.
+- <b>Precise Location Mapping:</b> Users receive clear indications of both the building and floor, along with a highlighted marker for the specific classroom they're searching for.
 
 ![Maproom Satellite View](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/dfa1152e-a85c-42c2-9034-fa91ede7c13b)
 ![Maproom Searching room](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/c78167d9-2236-491c-bdec-bcb538b7c4eb)
@@ -68,11 +69,11 @@ Maproom is a collaboration between myself and two other students to create a cam
 A relational database crafted to streamline operations for an ATV repair shop. Meant to replace their cumbersome physical logging system with a user friends system that allows the client to quickly find customers and their associated repairs.
 
 
-<b>Features</b>
-- Customer information management to quickly store and retrieve customer details
-- Logging of ATV vehicle information, Repairs, and other services
-- Easy navigation from customer to associated ATVs or ATVs to associated customers.
-- Ability to print forms for physical backups
+<b>Features:</b>
+- <b>Customer Information Management:</b> Efficient storage and retrieval system for customer details, streamlining client management.
+- <b>ATV Information and Repair Logging:</b> Comprehensive logging of ATV details, repair history, and other services for easy reference.
+- <b>Seamless Navigation:</b> Intuitive interface enabling quick links between customers and their respective ATVs, and vice versa.
+- <b>Print Functionality:</b> Option to generate printouts for physical record-keeping and backup purposes.
 
 ![3K Customer List](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/96d62058-4aed-4561-b1f6-358066148ef3)
 ![3K Repairs](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/64cf73f6-ddca-4bab-84ac-23b5ec7240de)
