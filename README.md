@@ -2,8 +2,7 @@
 [Personal and Project Highlight Page](https://github.com/MyutVoilim/MyutVoilim.git) 🌟
 ## Table of Contents
 - [AI Digit Recognizer](#ai-digit-recognizer-🔢) 🔢
-- [Maproom](#maproom-campus-navigation-app ) 🗺️
-- [Maproom](#maproom-campus-navigation-app🗺️) 🗺️
+- [Maproom](#maproom-campus-navigation-app) 🗺️
 - [ATV Repair Shop Database](#ms-access-atv-repair-shop-database) 🛠️
 - [Java Dodge Game](#java-dodge-game) 🎮
 - [Unity AI Survival Agent](#unity-ai-survival-agent) 🤖
@@ -34,7 +33,8 @@ https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-4
 - <b>Testing and Reliability:</b> : Employed rigorous unit testing to ensure system reliability, which was crucial in identifying and resolving challenging bugs related to the complex journey data takes from the input, processing, backpropagation, and eventually the output.
 - <b>Documentation and Learning:</b> The project was not just a technical challenge but also an opportunity to refine my skills in creating comprehensive documentation and understanding the intricacies of neural network behaviors.
   
-## Maproom Campus Navigation App🗺️
+## Maproom Campus Navigation App
+🗺️
 ![Maproom Overview (1)](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/b9516baa-0021-46bd-9d64-8f4a8ffba4a7)
 
 <b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB | Visual Studio Code
