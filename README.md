@@ -2,8 +2,8 @@
 [Personal and Project Highlight Page](https://github.com/MyutVoilim/MyutVoilim.git) 🌟
 ## Table of Contents
 - [AI Digit Recognizer](#ai-digit-recognizer-🔢) 🔢
-- [Maproom](#maproom-campus-navigation-app-🗺️) 🗺️
-- [Maproom](#maproom-campus-navigation-app-🗺) 🗺️
+- [Maproom](#maproom-campus-navigation-app) 🗺️
+- [Maproom](#maproom-campus-navigation-app-) 🗺️
 - [ATV Repair Shop Database](#ms-access-atv-repair-shop-database) 🛠️
 - [Java Dodge Game](#java-dodge-game) 🎮
 - [Unity AI Survival Agent](#unity-ai-survival-agent) 🤖
