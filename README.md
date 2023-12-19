@@ -1,11 +1,11 @@
-# Project Portfolio
-To my main [personal overview](https://github.com/MyutVoilim/MyutVoilim.git)
+# Project Portfolio 💼
+[Personal and Project Highlight Page](https://github.com/MyutVoilim/MyutVoilim.git) 🌟
 ## Table of Contents
-- [AI Digit Recognizer](#ai-digit-recognizer)
-- [Maproom](#maproom-campus-navigation-app)
-- [ATV Repair Shop Database](#ms-access-atv-repair-shop-database)
-- [Java Dodge Game](#java-dodge-game)
-- [Unity AI Survival Agent](#unity-ai-survival-agent)
+- [AI Digit Recognizer](#ai-digit-recognizer) 🔢
+- [Maproom](#maproom-campus-navigation-app) 🗺️
+- [ATV Repair Shop Database](#ms-access-atv-repair-shop-database) 🛠️
+- [Java Dodge Game](#java-dodge-game) 🎮
+- [Unity AI Survival Agent](#unity-ai-survival-agent) 🤖
 ## AI Digit Recognizer (For Full Documenation Click [Here](https://github.com/MyutVoilim/AI-Digit-Recognition.git)) 🔢
 ![Digit Recognizer 2](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/b6f11075-d122-4dbc-96d6-03a7fa03f8d2)
 
@@ -20,7 +20,7 @@ To my main [personal overview](https://github.com/MyutVoilim/MyutVoilim.git)
 - <b>User-Friendly Interface:</b> Including dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
 - <b>Model Management:</b> Save, load, and swap out training data for greater flexibility and experimentation.
 
-<b>Introduction to Me and the Proejct</b>
+<b>Introduction to Me and the Project</b>
 
 https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/df073c76-e715-49eb-9d00-9c8d300d937c
 
@@ -33,7 +33,7 @@ https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-4
 - <b>Testing and Reliability:</b> : Employed rigorous unit testing to ensure system reliability, which was crucial in identifying and resolving challenging bugs related to the complex journey data takes from the input, processing, backpropagation, and eventually the output.
 - <b>Documentation and Learning:</b> The project was not just a technical challenge but also an opportunity to refine my skills in creating comprehensive documentation and understanding the intricacies of neural network behaviors.
   
-## Maproom Campus Navigation App
+## Maproom Campus Navigation App 🗺️
 ![Maproom Overview (1)](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/b9516baa-0021-46bd-9d64-8f4a8ffba4a7)
 
 <b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB | Visual Studio Code
@@ -55,7 +55,7 @@ https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-4
 - <b>Demographic Needs:</b> This app held an important place in our campus as available maps were uninformative and only provided a campus overview. Surveys and test groups were pivotal in narrowing effective and user-friendly functionality.
 
   
-## MS Access ATV Repair Shop Database
+## MS Access ATV Repair Shop Database 🛠️
 ![3K Hub](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/cf74f033-e55f-46e7-a208-ee95f5c04e78)
 ![3K Full Service View](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/fe160030-9372-49b9-932e-d7480bb8c224)
 
@@ -77,7 +77,7 @@ https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/197f9e12-64d2-4
 - <b>Business Requirements Analysis:</b> Conducted thorough analysis to ensure the database design aligns with the specific operational needs of the ATV repair shop.
 - <b>System Design and User Experience:</b> Prioritized ease of use in system design, involving the client throughout the development process to integrate their insights and evolving requirements.
 
-## Java Dodge Game
+## Java Dodge Game 🎮
 ![Dodge Playing](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/46014cea-276f-4c9a-a455-9cb8789e29d7)
 
 <b>Technologies:</b> Java | Eclipse
@@ -97,7 +97,7 @@ An immersive and progressively challenging dodge game to reach the highest score
 - <b>Performance Optimization:</b> Ensuring smooth game performance and intuitive, self-explanatory design.
 - <b>OOP Principles Implementation:</b> Maintaining a clean, modular codebase using principles like encapsulation, inheritance, and polymorphism.
 
-## Unity AI Survival Agent
+## Unity AI Survival Agent 🤖
 ![together](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/00130ce1-471b-4a97-af2f-f037719e5e79)
 
 <b>Technologies</b> C# | Unity | Visual Studio
