@@ -6,7 +6,7 @@
 - [ATV Repair Shop Database](#ms-access-atv-repair-shop-database-%EF%B8%8F) 🛠️
 - [Java Dodge Game](#java-dodge-game-) 🎮
 - [Unity AI Survival Agent](#unity-ai-survival-agent-) 🤖
-## AI Digit Recognizer (For Full Documenation Click [Here](https://github.com/MyutVoilim/AI-Digit-Recognition.git)) 🔢
+## AI Digit Recognizer
 ![Digit Recognizer 2](https://github.com/MyutVoilim/Projects-Portfolio/assets/54462267/b6f11075-d122-4dbc-96d6-03a7fa03f8d2)
 
 <b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio
